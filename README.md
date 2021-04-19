@@ -35,20 +35,33 @@ Dictionary<char, List<char>> dict = new Dictionary<char, List<char>>()
   
   e.g.  
   youtube.com  
-	y0utube.com  
-	yQutube.com  
-	youtu6e.com  
-	y0utu6e.com  
-	yQutu6e.com  
+  y0utube.com  
+  yQutube.com  
+  youtu6e.com  
+  y0utu6e.com  
+  yQutu6e.com  
   
   e.g.  
   yahoo.com  
-	yah0o.com  
-	yahQo.com  
-	yaho0.com  
-	yah00.com  
-	yahQ0.com  
-	yahoQ.com  
-	yah0Q.com  
-	yahQQ.com  
+  yah0o.com  
+  yahQo.com  
+  yaho0.com  
+  yah00.com  
+  yahQ0.com  
+  yahoQ.com  
+  yah0Q.com  
+  yahQQ.com  
   
+  e.g.  
+  office.com  
+  0ffice.com  
+  Qffice.com  
+  o4fice.com  
+  04fice.com  
+  Q4fice.com  
+  of4ice.com  
+  0f4ice.com  
+  Qf4ice.com  
+  o44ice.com  
+  044ice.com  
+  Q44ice.com  
