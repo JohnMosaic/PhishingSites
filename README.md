@@ -1,5 +1,5 @@
 # PhishingSites  
-Generate phishing domains from a custom dictionary. &lt;fake domains or sites>  
+☆☆ Generate phishing domains from a custom dictionary. &lt;fake domains or sites>  
   
 Dictionary<char, List<char>> dict = new Dictionary<char, List<char>>()  
 {  
@@ -30,3 +30,25 @@ Dictionary<char, List<char>> dict = new Dictionary<char, List<char>>()
     { '0', new List<char>() { '0', 'D', 'O', 'Q' } },  
     { 'o', new List<char>() { 'o', '0', 'Q' } }  
 };  
+  
+☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
+  
+  e.g.  
+  youtube.com  
+	y0utube.com  
+	yQutube.com  
+	youtu6e.com  
+	y0utu6e.com  
+	yQutu6e.com  
+  
+  e.g.  
+  yahoo.com  
+	yah0o.com  
+	yahQo.com  
+	yaho0.com  
+	yah00.com  
+	yahQ0.com  
+	yahoQ.com  
+	yah0Q.com  
+	yahQQ.com  
+  
