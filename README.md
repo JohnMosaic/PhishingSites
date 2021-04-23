@@ -28,7 +28,9 @@ Dictionary<char, List<char>> dict = new Dictionary<char, List<char>>()
     { 'g', new List<char>() { 'g', '9' } },  
   
     { '0', new List<char>() { '0', 'D', 'O', 'Q' } },  
-    { 'o', new List<char>() { 'o', '0', 'Q' } }  
+    { 'o', new List<char>() { 'o', '0', 'Q' } },  
+    
+    { '.', new List<char>() { '.', '-' } }  
 };  
   
 ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆
@@ -53,15 +55,6 @@ Dictionary<char, List<char>> dict = new Dictionary<char, List<char>>()
   yahQQ.com  
   
   e.g.  
-  office.com  
-  0ffice.com  
-  Qffice.com  
-  o4fice.com  
-  04fice.com  
-  Q4fice.com  
-  of4ice.com  
-  0f4ice.com  
-  Qf4ice.com  
-  o44ice.com  
-  044ice.com  
-  Q44ice.com  
+  zhidao.baidu.com  
+  zhidao-baidu.com  
+    
