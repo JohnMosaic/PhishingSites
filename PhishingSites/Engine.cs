@@ -97,7 +97,9 @@ namespace PhishingSites
             { 'g', new List<char>() { 'g', '9' } },
 
             { '0', new List<char>() { '0', 'D', 'O', 'Q' } },
-            { 'o', new List<char>() { 'o', '0', 'Q' } }
+            { 'o', new List<char>() { 'o', '0', 'Q' } },
+            
+            { '.', new List<char>() { '.', '-' } }
 
             //...Custom...
         };
